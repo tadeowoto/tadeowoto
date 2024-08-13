@@ -4,11 +4,17 @@
 
 <section>
     <h2>Sobre mí</h2>
-    <p>🔭 Soy Tadeo Wotoszyn, estudiante en Desarrollo de Software en la Universidad de la Punta y en Platzi. Estoy aprendiendo nuevas tecnologías en general, tanto de lenguajes de programación como IA. :seedling:</p>
-    <p>🚀 Tecnologías que uso:</p>
+    <p>🔭 Soy Tadeo Wotoszyn, estudiante en Desarrollo de Software en la Universidad de la Punta y en Platzi. Estoy aprendiendo nuevas tecnologías en general, tanto de lenguajes de programación como IA.</p>
+    <p>Tecnologías que uso: 🚀 </p>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,react" />
+        <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git" />
+      </a>
+    </p>
+    <p>Tecnologías que estoy aprendiendo: :seedling: </p>
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,ts,bootstrap,astro" />
       </a>
     </p>
     <p>📫 Cómo contactarme:</p>
