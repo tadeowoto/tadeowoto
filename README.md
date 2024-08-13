@@ -8,7 +8,7 @@
     <p>🚀 Tecnologías que uso:</p>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+        <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,react" />
       </a>
     </p>
     <p>📫 Cómo contactarme:</p>
