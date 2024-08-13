@@ -40,5 +40,5 @@
     </a>
 </section>
 
-## :purple_heart: Un gusto y espero trabajar juntos algun dia! :purple_heart: !
+## :purple_heart: Un gusto y espero trabajar juntos algun dia ! :purple_heart: 
 
