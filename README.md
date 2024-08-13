@@ -6,7 +6,7 @@
     <h2>Sobre mí</h2>
     <p>🔭 Soy Tadeo Wotoszyn, estudiante en Desarrollo de Software en la Universidad de la Punta y en Platzi. Estoy aprendiendo nuevas tecnologías en general, tanto de lenguajes de programación como IA. :seedling:</p>
     <p>🚀 Tecnologías que uso:</p>
-    <p align="center">
+    <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
       </a>
@@ -26,8 +26,12 @@
 
 <section>
     <h2>Algunos Repositorios para Visitar :rocket:</h2>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=RickAndMorty&show_icons=true&theme=radical" alt="RickAndMorty Repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=BaloncestoTripleB&show_icons=true&theme=radical" alt="BaloncestoTripleB Repo">
+    <a href="https://github.com/tadeowoto/RickAndMorty">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=RickAndMorty&show_icons=true&theme=radical" alt="RickAndMorty Repo">
+    </a>
+    <a href="https://github.com/tadeowoto/BaloncestoTripleB">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=BaloncestoTripleB&show_icons=true&theme=radical" alt="BaloncestoTripleB Repo">
+    </a>
 </section>
 
 ## :purple_heart: Un gusto y espero trabajar juntos algun dia! :purple_heart: !
