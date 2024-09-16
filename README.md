@@ -35,13 +35,13 @@
     <a href="https://github.com/tadeowoto/BaloncestoTripleB">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=Artify&show_icons=true&theme=radical" alt="Artify Repo">
     </a>
-    <a href="https://github.com/tadeowoto/BaloncestoTripleB">
+    <a href="https://github.com/tadeowoto/F1Hub">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=F1Hub&show_icons=true&theme=radical" alt="F1Hub Repo">
     </a>
     <a href="https://github.com/tadeowoto/RickAndMorty">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=RickAndMorty&show_icons=true&theme=radical" alt="RickAndMorty Repo">
     </a>
-    <a href="https://github.com/tadeowoto/BaloncestoTripleB">
+    <a href="https://github.com/tadeowoto/Artify">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=BaloncestoTripleB&show_icons=true&theme=radical" alt="BaloncestoTripleB Repo">
     </a>
 </section>
