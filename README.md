@@ -8,13 +8,13 @@
     <p>Tecnologías que uso: 🚀 </p>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git" />
+        <img src="https://skillicons.dev/icons?i=react,java,js,html,css,tailwind,mysql,astro,git" />
       </a>
     </p>
     <p>Tecnologías que estoy aprendiendo: :seedling: </p>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,ts,bootstrap,astro,nodejs,tailwind" />
+        <img src="https://skillicons.dev/icons?i=ts,bootstrap,nodejs" />
       </a>
     </p>
     <p>📫 Cómo contactarme:</p>
