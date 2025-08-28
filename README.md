@@ -14,7 +14,7 @@
     <p>Tecnologías que estoy aprendiendo: :seedling: </p>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,bootstrap,nodejs" />
+        <img src="https://skillicons.dev/icons?i=ts,bootstrap,nodejs,python" />
       </a>
     </p>
     <p>📫 Cómo contactarme:</p>
