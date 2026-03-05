@@ -56,8 +56,8 @@ Actualmente enfocado en el ecosistema **React**, **Next.js** y **Spring Boot**.
   </a>
 </p>
 
+### 🌱 LEARNING
 <p align="left">
-  <em>Learning:</em> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,supabase,figma&theme=light" alt="Learning" />
   </a>
