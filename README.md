@@ -52,14 +52,14 @@ Actualmente enfocado en el ecosistema **React**, **Next.js** y **Spring Boot**.
 ### 🛠️ TECH STACK
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,java,spring,ts,tailwind,mysql,git&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,java,spring,ts,tailwind,mysql,nodejs,git&theme=light" alt="My Skills" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <em>Learning:</em> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,supabase,figma&theme=light" alt="Learning" />
+    <img src="https://skillicons.dev/icons?i=python,supabase,figma&theme=light" alt="Learning" />
   </a>
 </p>
 
