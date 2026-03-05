@@ -1,50 +1,52 @@
+# TADEO WOTOSZYN GRILLO
+*Web Developer / Software Development Student*
 
+---
 
-# Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### ABOUT ME
+🔭 Estudiante de **Tecnicatura en Desarrollo de Software** en la Universidad de la Punta.  
+Apasionado por la tecnología, el diseño minimalista, el código y la inteligencia artificial.  
+Actualmente enfocado en el ecosistema **React**, **Next.js** y **Spring Boot**.
 
-<section>
-    <h2>Sobre mí</h2>
-    <p>🔭 Soy Tadeo Wotoszyn, estudiante en Desarrollo de Software en la Universidad de la Punta y en Platzi. Estoy aprendiendo nuevas tecnologías en general, tanto de lenguajes de programación como IA.</p>
-    <p>Tecnologías que uso: 🚀 </p>
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,java,js,html,css,tailwind,mysql,astro,git" />
-      </a>
-    </p>
-    <p>Tecnologías que estoy aprendiendo: :seedling: </p>
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,bootstrap,nodejs,python" />
-      </a>
-    </p>
-    <p>📫 Cómo contactarme:</p>
-    <div class="badges">
-        <a href="mailto:tadeo.woto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
-        <a href="https://discordapp.com/users/tadiu_"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
-        <a href="https://www.linkedin.com/in/tadeowoto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-    </div>
-</section>
+---
 
-<section>
-    <h2>GitHub Stats 🌪️</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=tadeowoto&show_icons=true&theme=radical" alt="Tadeo's GitHub Stats">
-</section>
+### TECH STACK
+**Current** [![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,java,spring,ts,tailwind,mysql,git&theme=light)](https://skillicons.dev)
 
-<section>
-    <h2>Algunos Repositorios para Visitar :rocket:</h2>
-    <a href="https://github.com/tadeowoto/BaloncestoTripleB">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=Artify&show_icons=true&theme=radical" alt="Artify Repo">
-    </a>
-    <a href="https://github.com/tadeowoto/F1Hub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=F1Hub&show_icons=true&theme=radical" alt="F1Hub Repo">
-    </a>
-    <a href="https://github.com/tadeowoto/RickAndMorty">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=RickAndMorty&show_icons=true&theme=radical" alt="RickAndMorty Repo">
-    </a>
-    <a href="https://github.com/tadeowoto/Artify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=BaloncestoTripleB&show_icons=true&theme=radical" alt="BaloncestoTripleB Repo">
-    </a>
-</section>
+**Learning** [![Learning](https://skillicons.dev/icons?i=nodejs,python,supabase,figma&theme=light)](https://skillicons.dev)
 
-## :purple_heart: Un gusto y espero trabajar juntos algun dia ! :purple_heart: 
+---
+
+### PROJECTS & OPEN SOURCE
+<p align="center">
+  <a href="https://github.com/tadeowoto/AzerothApi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=AzerothApi&show_icons=true&theme=monokai&bg_color=f4f1ea&title_color=0f0d06&icon_color=c6c5b0&border_color=c6c5b0" alt="AzerothApi">
+  </a>
+  <a href="https://github.com/tadeowoto/F1Hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tadeowoto&repo=F1Hub&show_icons=true&theme=monokai&bg_color=f4f1ea&title_color=0f0d06&icon_color=c6c5b0&border_color=c6c5b0" alt="F1Hub">
+  </a>
+</p>
+
+---
+
+### ANALYTICS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tadeowoto&show_icons=true&theme=monokai&bg_color=f4f1ea&title_color=0f0d06&icon_color=c6c5b0&text_color=0f0d06&border_color=c6c5b0" alt="Stats">
+</p>
+
+---
+
+### CONNECT
+<p align="left">
+  <a href="mailto:tadeo.woto@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-0f0d06?style=for-the-badge&logo=gmail&logoColor=f4f1ea" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/tadeowoto/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0f0d06?style=for-the-badge&logo=linkedin&logoColor=f4f1ea" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="right">
+  <i>Built with focus and coffee.</i>
+</p>
 
